@@ -1,0 +1,277 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Turkish Cuisine House",
+      "minPrice": 90,
+      "estimatedDelivery": 45,
+      "photo": "https://visitturkey.in/wp-content/uploads/2015/05/exploring-the-rich-flavors-of-turkish-cuisine-meat-dishes.webp",
+      "rating": 4.7,
+      "isDeliveryFree": true,
+      "isOpen": false,
+      "distance": 5
+    },
+    {
+      "id": "2",
+      "name": "Moroccan Restaurant",
+      "minPrice": 40,
+      "estimatedDelivery": 35,
+      "photo": "https://en-chatelaine.mblycdn.com/ench/resized/2020/02/1600x900/Tagine-istock-feature-image.jpg",
+      "rating": 4.5,
+      "isDeliveryFree": false,
+      "isOpen": true,
+      "distance": 7
+    },
+    {
+      "id": "3",
+      "name": "Italian Pizza Bistro",
+      "minPrice": 60,
+      "estimatedDelivery": 50,
+      "photo": "https://www.netkurumsal.com/wp-content/uploads/2017/10/restoran.jpg",
+      "rating": 4.8,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 2
+    },
+    {
+      "id": "4",
+      "name": "French Bistro",
+      "minPrice": 45,
+      "estimatedDelivery": 40,
+      "photo": "https://mudavim.net/wp-content/uploads/2018/05/29-ulus-scaled.jpeg",
+      "rating": 4.6,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 9
+    },
+    {
+      "id": "5",
+      "name": "American Diner",
+      "minPrice": 55,
+      "estimatedDelivery": 55,
+      "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/49/2f/9f/american-bistro-american.jpg?w=900&h=-1&s=1",
+      "rating": 4.9,
+      "isDeliveryFree": false,
+      "isOpen": false,
+      "distance": 11
+    },
+    {
+      "id": "6",
+      "name": "Asian Fusion Restaurant",
+      "minPrice": 55,
+      "estimatedDelivery": 40,
+      "photo": "https://imageio.forbes.com/specials-images/imageserve/60e5ae1479fb63d269049065/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "rating": 4.4,
+      "isDeliveryFree": false,
+      "isOpen": false,
+      "distance": 1
+    },
+    {
+      "id": "7",
+      "name": "Healthy Mediterranean Station",
+      "minPrice": 60,
+      "estimatedDelivery": 50,
+      "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/9a/55/be/modern-greek-restaurant.jpg?w=600&h=-1&s=1",
+      "rating": 4.6,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 2
+    },
+    {
+      "id": "8",
+      "name": "Mexican Spice Flavors",
+      "minPrice": 50,
+      "estimatedDelivery": 45,
+      "photo": "https://www.englishclub.com/images/vocabulary/food/mexican/mexican-food.jpg",
+      "rating": 4.7,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 11
+    },
+    {
+      "id": "9",
+      "name": "Gourmet French Kitchen",
+      "minPrice": 120,
+      "estimatedDelivery": 35,
+      "photo": "https://iconiclife.com/wp-content/uploads/2020/04/Sea-Scallops-and-green-beans-healthy-French-Cuisine.jpg",
+      "rating": 4.8,
+      "isOpen": true,
+      "isDeliveryFree": false,
+      "distance": 3
+    },
+    {
+      "id": "10",
+      "name": "Greek Mediterranean Table",
+      "minPrice": 80,
+      "estimatedDelivery": 50,
+      "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/b8/23/13/bar.jpg?w=600&h=-1&s=1",
+      "rating": 4.6,
+      "isOpen": true,
+      "isDeliveryFree": true,
+      "distance": 7
+    },
+    {
+      "id": "11",
+      "name": "Spanish Tapas Bar",
+      "minPrice": 70,
+      "estimatedDelivery": 40,
+      "photo": "https://www.studyspanishinspain.org/blog/wp-content/uploads/2021/04/best-traditional-spanish-tapas.jpg",
+      "rating": 4.9,
+      "isOpen": false,
+      "isDeliveryFree": false,
+      "distance": 4
+    },
+    {
+      "id": "12",
+      "name": "Italian Gourmet Feast",
+      "minPrice": 110,
+      "estimatedDelivery": 30,
+      "photo": "https://www.insicilia.com/img/cms/Delizie%20Siciliane/Vendita-online-prodotti-tipici-siciliani.jpg",
+      "rating": 4.5,
+      "isOpen": true,
+      "isDeliveryFree": true,
+      "distance": 2
+    },
+    {
+      "id": "13",
+      "name": "Indian Kitchen",
+      "minPrice": 95,
+      "estimatedDelivery": 55,
+      "photo": "https://images.axios.com/lIPBPJ802rSLL98aIQ9FDkQd2Go=/0x0:6687x3761/1920x1080/2023/04/11/1681223212336.jpg?w=3840",
+      "rating": 4.3,
+      "isOpen": false,
+      "isDeliveryFree": false,
+      "distance": 6
+    },
+    {
+      "id": "14",
+      "name": "Japanese Sushi Bar",
+      "minPrice": 75,
+      "estimatedDelivery": 30,
+      "photo": "https://cdn.vox-cdn.com/thumbor/1-RUbHqxSxLTLOZ4nD3X593GQas=/0x0:5040x4032/1200x900/filters:focal(2117x1613:2923x2419)/cdn.vox-cdn.com/uploads/chorus_image/image/59121463/riccardo_bergamini_O2yNzXdqOu0_unsplash.47.jpg",
+      "rating": 4.8,
+      "isOpen": false,
+      "isDeliveryFree": false,
+      "distance": 5
+    },
+    {
+      "id": "15",
+      "name": "Thai Restaurant",
+      "minPrice": 80,
+      "estimatedDelivery": 40,
+      "photo": "https://media-cdn.tripadvisor.com/media/photo-s/19/ee/8e/a4/takieng-overlooking-to.jpg",
+      "rating": 4.2,
+      "isOpen": false,
+      "isDeliveryFree": false,
+      "distance": 7
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Grilled Salmon",
+      "desc": "Fresh grilled salmon served with vegetables.",
+      "category": "Seafood",
+      "price": 45.99,
+      "rating": 4.8,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ttdQRLrjvoQteH2-Wlzj4f87DUmTVuEJmQ&s",
+      "restaurantId": "1",
+      "isPopular": true
+    },
+    {
+      "id": "2",
+      "title": "Margarita Pizza",
+      "desc": "Classic pizza made with thin dough, fresh mozzarella, tomato sauce, and basil.",
+      "category": "Pizza",
+      "price": 12.99,
+      "rating": 4.5,
+      "photo": "https://picsum.photos/201",
+      "restaurantId": "2"
+    },
+    {
+      "id": "3",
+      "title": "Chicken Kebab",
+      "desc": "Marinated chicken pieces grilled on a skewer.",
+      "category": "Kebabs",
+      "price": 17.99,
+      "rating": 4.7,
+      "photo": "https://i.lezzet.com.tr/images-xxlarge-recipe/tavuk-kebabi-971f9aac-58c0-4432-9ecd-46b549f0edb0.jpg",
+      "restaurantId": "1",
+      "isPopular": true
+    },
+    {
+      "id": "4",
+      "title": "Chocolate Brownie",
+      "desc": "Rich chocolate brownie served with vanilla ice cream.",
+      "category": "Desserts",
+      "price": 8.99,
+      "rating": 4.9,
+      "photo": "https://picsum.photos/203",
+      "restaurantId": "3"
+    },
+    {
+      "id": "5",
+      "title": "Baked Pasta",
+      "desc": "Baked pasta with mozzarella cheese and tomato sauce.",
+      "category": "Pasta",
+      "price": 10.99,
+      "rating": 4.6,
+      "photo": "https://picsum.photos/204",
+      "restaurantId": "4",
+      "isPopular": true
+    },
+    {
+      "id": "6",
+      "title": "Stewed Meat in Pot",
+      "desc": "Fresh vegetables and spices mixed with beef and cooked in a clay pot.",
+      "category": "Meat Dishes",
+      "price": 22.99,
+      "rating": 4.4,
+      "photo": "https://picsum.photos/205",
+      "restaurantId": "5"
+    },
+    {
+      "id": "7",
+      "title": "Baked Chicken Leg",
+      "desc": "Chicken legs marinated with spices and roasted in the oven.",
+      "category": "Chicken Dishes",
+      "price": 14.99,
+      "rating": 4.7,
+      "photo": "https://picsum.photos/206",
+      "restaurantId": "7",
+      "isPopular": true
+    },
+    {
+      "id": "8",
+      "title": "Vegetable Noodles",
+      "desc": "A light and tasty Asian dish made with various vegetables and noodles.",
+      "category": "Asian Cuisine",
+      "price": 11.99,
+      "rating": 4.6,
+      "photo": "https://picsum.photos/207",
+      "restaurantId": "8",
+      "isPopular": true
+    },
+    {
+      "id": "9",
+      "title": "Italian Salad",
+      "desc": "A light salad made with fresh arugula, cherry tomatoes, mozzarella, and balsamic dressing.",
+      "category": "Salads",
+      "price": 8.49,
+      "rating": 4.3,
+      "photo": "https://picsum.photos/208",
+      "restaurantId": "3"
+    },
+    {
+      "id": "10",
+      "title": "Crispy Fish Tacos",
+      "desc": "Fish fillets fried and served in soft corn tortillas with lettuce, salsa, and guacamole.",
+      "category": "Mexican",
+      "price": 15.99,
+      "rating": 4.8,
+      "photo": "https://picsum.photos/209",
+      "restaurantId": "4"
+    }
+  ],
+  "cart": []
+}
