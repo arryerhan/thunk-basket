@@ -21,7 +21,25 @@
 - Redux
 - Redux Thunk
 - API Handling: Axios
-
 - Backend:JSON Server (mock backend for development)
-
 - Utilities:UUID (for generating unique identifiers)
+
+## Screenshots
+
+![screen01](https://github.com/user-attachments/assets/ae531a7b-977c-406b-b0ff-c11da8a0993c)
+
+![screen02](https://github.com/user-attachments/assets/d1e4d3ee-44cf-4777-b188-049cc2e1f7b9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
